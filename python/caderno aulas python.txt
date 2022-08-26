@@ -1,0 +1,47 @@
+IDE = Interface de programação
+Python usa o padrão Snake_Case para os nomes de variáveis.
+
+\n
+elif para um else dentro de outro else
+
+Variável bool só pode ter 2 valores, true or false
+Variável string são letras
+Variável int são números inteiros
+Variável float são números decimais
+
+string interpolation com {} e .format INTERPOLAÇÃO DE STRINGS`
+
+
+[] LISTAS for in 
+() Tuple uma lista imutavel, muitas vezes parametros diferentes ex: string e int 
+{} Dicionario para 
+{} Set não permite valores duplicados (não possui indice, os valores não são ordenados)
+
+__getitem__ para fazer uma classe ser interável (Duck typing)
+
+
+referencias para OO são como variaveis
+referencias guardam o local onde o objeto se encontra na memoria
+tudo dentro da classe primeiro utilizada / def __init__(self) para criar um objeto 
+
+MIXING são classes herdadas que não precisam ser instanciadas e contém preocupações comuns a diversas classes
+RE EXPRESSOES REGULARES
+
+
+https://docs.python.org/pt-br/3/library/string.html#formatexamples
+PHYTOM DATA MODEL ABCs collections.abc
+numpy para área matemática
+
+Conjuntos {} | para juntar conjuntos
+	     & para juntar apenas números que estão no mesmo conjunto
+	     etc
+
+Pypi PARA PROCURAR PACOTES PHYTON
+API
+C:\Users\Usuario\Desktop\django_aplication\venv\Scripts\Activate.ps1
+
+oportunidades@kunden.com.br 
+https://www.amazon.com.br/Cadeira-Escritório-Presidente-Vegas-Duoffice/dp/B09B19XXXV/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&crid=C3QDWEUNC60I&keywords=Duoffice+DU380&qid=1649040880&s=home&sprefix=duoffice+du380%2Chome%2C290&sr=1-2&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147
+
+
+https://espinhosdaauroraescarlate.herokuapp.com/dashboard
